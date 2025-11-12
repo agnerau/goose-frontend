@@ -26,8 +26,8 @@ For my Bachelor Degree project, I developed a **website** and **3D game** to mak
 
 **Gamifying homework** can significantly improve students’ motivation and focus. The "Goose" platform was designed to **boost engagement** by introducing a bit of competition and interactive gameplay.
 
-- **Backend repository** can be found here: https://github.com/ghoul/goose-backend
-- **WebGL build** for the game can be found here: https://github.com/ghoul/goose-game
+- **Backend repository** can be found here: https://github.com/agnerau/goose-backend
+- **WebGL build** for the game can be found here: https://github.com/agnerau/goose-game
 
 ## Technologies Used
 
